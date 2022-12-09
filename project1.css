@@ -1,0 +1,67 @@
+title {
+    background-color: rgb(255, 0, 0);
+} 
+video{
+    background-attachment: fixed;
+}
+p9{
+    color: white;
+    font-size: 25px;
+    text-align:left;
+    text-overflow: ellipsis;;
+}
+p3{
+    font-size: 86px;
+    font-family:2022-12-02.png ;
+    text-transform: fade-left;
+    color: white;
+    text-align: center;
+    border-bottom: 2px;
+}
+
+p4{
+    color: white;
+    font-size: 36px;
+    font-style: bold;
+}
+
+p{
+    font-size: 30px;
+    color: rgb(11, 141, 255);
+    background-color: bisque 100px solid;
+}
+body{
+    background-color: black;
+}
+/*video autoplay source src="C:\Users\hp\Downloads\smartsites-video.mp4.webm"*/
+/*      <a1>
+        <img src="C:\Users\hp\Pictures\featured-services-bg-1536x708.png" width="1536" height="708">
+      </a1>*/
+
+p1{
+    color:rgb(255, 213, 0);
+    font-size: 80px;
+    text-align: left;
+}
+
+p5{
+    font-size: 35px;
+    color: white;
+}
+p6,p7{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+span{
+    background:#eceff1;color:#606060;margin-right:16px;display:inline-block;font-weight:bold;padding:4px
+}
+      /*<a href="https://www.google.com/partners/agency?id=5087479293" target=_blank><img
+          width=95 height=95 src=https://www.gstatic.com/partners/badge/images/2022/PremierBadgeClickable.svg alt="Google PremierBadge" style=max-height:95px;></a></figure><figure
+          class="img-wrap d-inline-block m-0 google-badge-mobile">*/
+
+
+a1{
+    background-attachment: fixed;
+}
+  
